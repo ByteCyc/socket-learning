@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/10344291@zte.intra/10344291/c++/Instant_messaging_system/utils/select_function/select1.cpp
+stdio.h
+-
+unistd.h
+-
+sys/time.h
+-
+sys/select.h
+-
+
